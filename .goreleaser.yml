@@ -43,7 +43,7 @@ archives:
 release:
   prerelease: auto
   footer: |
-    **Full Changelog**: https://github.com/raneydazed/redactedhook/compare/{{ .PreviousTag }}...{{ .Tag }}
+    **Full Changelog**: https://github.com/raneyazed/redactedhook/compare/{{ .PreviousTag }}...{{ .Tag }}
     
     ## Docker images
     
